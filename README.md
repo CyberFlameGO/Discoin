@@ -1,2 +1,2 @@
-# ts-template
-Rauf's Typescript Template
+# Discoin
+The best Discord coin and economy bot out there!
